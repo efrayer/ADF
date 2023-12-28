@@ -1,0 +1,9 @@
+{
+	"name": "efdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9bd114e4-18ee-4d34-9422-0dceb65b67f7",
+		"tenantId": "9dc76f7b-8f4d-469b-9d53-ea5bc4b213d0"
+	}
+}
